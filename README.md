@@ -1,8 +1,7 @@
-# React + Vite
+Yekev Front End 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[Visit project site](https://myapp-6h3nimuui-adi-ancelovits-projects.vercel.app/)
 
-Currently, two official plugins are available:
+Yekev is a comprehensive order management application designed for coffee shops. It streamlines the ordering process, enhances operational efficiency, and improves customer service by providing a seamless platform for managing orders, tracking status, and ensuring timely fulfillment.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
