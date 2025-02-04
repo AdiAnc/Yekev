@@ -1,0 +1,18 @@
+[
+  {
+    "name": "pizza",
+    "price": 30
+  },
+  {
+    "name": "coffee",
+    "price": 15
+  },
+  {
+    "name": "cake",
+    "price": 20
+  },
+  {
+    "name": "soda",
+    "price": 20
+  }
+]

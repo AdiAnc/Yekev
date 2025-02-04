@@ -1,0 +1,4 @@
+pizza,30
+coffee,15
+cake,20
+soda,20
